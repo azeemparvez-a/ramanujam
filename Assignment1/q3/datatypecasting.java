@@ -1,5 +1,5 @@
 package q3;
-//*3. Write a program to declare all primitive data types with all possible types of initialization and also check implicit and explicit type casting by assigning them to each other.
+//3. Write a program to declare all primitive data types with all possible types of initialization and also check implicit and explicit type casting by assigning them to each other.
 
 public class datatypecasting {
 

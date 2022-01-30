@@ -10,7 +10,7 @@ public class SortArray {
   
         // Sorting the array in descending order using Arrays.sort() ||[import java.util.*;]
         Arrays.sort(array, Collections.reverseOrder());
-  
+        // Converting int to string because int is not supported
         System.out.println(Arrays.toString(array)); 
 	}
 }
